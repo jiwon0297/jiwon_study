@@ -1,2 +1,4 @@
-# jiwon_study
-python
+# Algorithm Study
+ - python
+
+# 
